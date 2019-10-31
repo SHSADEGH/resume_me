@@ -6,4 +6,4 @@ This repo holds my **Dev Landing Page**, a one stop shop to everything I do onli
 
 ## License
 
-MIT © Dinesh Pandiyan
+MIT © DPandiyan
